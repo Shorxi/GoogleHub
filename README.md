@@ -145,7 +145,7 @@ Sie kompiliert das Projekt, erzeugt das Icon und legt die fertige EXE auf dem De
 
 ## ⚠️ Wichtiger Hinweis zur Erstellung
 
-Da der Microsoft Ecosystem Desktop Hub **keine offiziell signierte Microsoft‑Datei** ist, kann es vorkommen, dass manche Virenscanner die frisch erzeugte EXE fälschlicherweise blockieren oder löschen.  
+Da der Google Ecosystem Desktop Hub **keine offiziell signierte Microsoft‑Datei** ist, kann es vorkommen, dass manche Virenscanner die frisch erzeugte EXE fälschlicherweise blockieren oder löschen.  
 Das ist ein typisches Verhalten bei **selbst kompilierten Tools**, die nicht digital signiert sind.
 
 Damit die Erstellung problemlos funktioniert:
