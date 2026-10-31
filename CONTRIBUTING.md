@@ -90,6 +90,8 @@ Bitte stelle sicher, dass Beiträge:
 ---
 
 ## 📄 **Lizenz**
+
+- [LICENSE](LICENSE)
 Alle Beiträge müssen mit der **MIT‑Lizenz** kompatibel sein.  
 Mit dem Einreichen eines Pull Requests stimmst du zu, dass dein Beitrag unter der MIT‑Lizenz veröffentlicht wird.
 
