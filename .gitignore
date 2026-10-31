@@ -1,0 +1,14 @@
+# Build-Ausgabe ignorieren
+*.exe
+*.ico
+
+# Windows/PowerShell temporäre Dateien
+*.log
+*.tmp
+
+# Einstellungen
+settings.ini
+
+# VS Code / Editor
+.vscode/
+.idea/
