@@ -1,6 +1,6 @@
 # 📘 Google Ecosystem Desktop Hub V2  
 ### *Kurze Projektbeschreibung & Funktionsübersicht*
-<img width="499" height="883" alt="Unbenannt" src="https://github.com/user-attachments/assets/de96edc7-438a-4730-8674-ef4b8d3feb36" />
+<img width="485" height="888" alt="hub" src="https://github.com/user-attachments/assets/7d648429-93a5-41ac-b352-14e87e630735" />
 
 ---
 
@@ -18,7 +18,8 @@ Er bietet schnellen Zugriff auf Google‑Dienste, eine integrierte Inline‑Such
 ### 🔹 **2. Auto‑Slide‑Orb (Docking)**  
 Der Launcher kann an den Bildschirmrand gleiten und dort als kleiner Orb „parken“.
 
-<img width="165" height="202" alt="Screenshot 2026-10-31 042818" src="https://github.com/user-attachments/assets/21e44328-1886-4fde-ae20-8f2040b8f314" />
+<img width="148" height="191" alt="Screenshot 2026-10-31 042818" src="https://github.com/user-attachments/assets/d14ec363-6a88-4cc3-bbad-d421662e8e61" />
+
 
 ### 🔹 **3. Inline‑Search Engine (Copilot‑ähnlich)**  
 Die Suchfunktion kombiniert mehrere Quellen:
@@ -128,7 +129,8 @@ MicrosoftEcosystemHub/
 
 - **Persistente Einstellungen (INI)**  
   Speichert Position, AlwaysOnTop, AppMode Verriegelung Schloss.
-<img width="170" height="82" alt="hub" src="https://github.com/user-attachments/assets/a860e2be-37c8-4918-a6f2-f76540593417" />
+<img width="170" height="81" alt="Unbenannt" src="https://github.com/user-attachments/assets/a09e429f-b51f-42f9-8682-6c70d8417006" />
+
 
 ---
 
